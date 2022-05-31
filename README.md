@@ -10,19 +10,19 @@ Here, the authors are not identified, due to the need to maintain the anonymity 
 
 All data regarding the reproducibility of this work can be found in this repository.
 
-data_input: is the pred2town dataset used;
+**data_input:** is the pred2town dataset used;
 
-data_output: is the split train/test of the pred2town dataset;
+**data_output:** is the split train/test of the pred2town dataset;
 
-model: presents the model Random Forest - RF already properly trained;
+**model:** presents the model Random Forest - RF already properly trained;
 
-df_models_info.csv: presents some important information about the performance of the analyzed RF model.
+**df_models_info.csv:** presents some important information about the performance of the analyzed RF model.
 
-XAI_Pred2Town.ipynb: is all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
+**XAI_Pred2Town.ipynb:** is all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
 
-To run the notebook XAI_Pred2Town.ipynb, it is suggested to use google colab, for a better and faster execution of the tool.
+To run the notebook **XAI_Pred2Town.ipynb**, it is suggested to use Google Colab, for a better and faster execution of the tool.
 
-Note that to run XAI_Pred2Town.ipynb it will be necessary to use the file 'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv' in the 'data loading' session.
+Note that to run **XAI_Pred2Town.ipynb** it will be necessary to use the file **'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv'** in the 'data loading' session.
 
 # Expert consultation:
 Applied research link with a specialist in the area of criminal data:
