@@ -24,5 +24,10 @@ To run the notebook XAI_Pred2Town.ipynb, it is suggested to use google colab, fo
 
 Note that to run XAI_Pred2Town.ipynb it will be necessary to use the file 'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv' in the 'data loading' session.
 
+# Expert consultation:
+Applied research link with a specialist in the area of criminal data:
+
+https://sites.google.com/view/pred2town/in%C3%ADcio
+
 
 
